@@ -1,0 +1,5 @@
+1.将xlsx的文档放入xlsx文件夹中 , 并重命名为demo.xlsx
+2. 执行main.exe
+
+3. 统计结果会放入"网约车运营服务费"的sheet中
+
